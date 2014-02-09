@@ -1,0 +1,30 @@
+[submodule "Cmder-Settings"]
+	path = Cmder-Settings
+	url = git://github.com/jayrobot/Cmder-Settings.git
+[submodule "Console2-Settings"]
+	path = Console2-Settings
+	url = git://github.com/jayrobot/Console2-Settings.git
+[submodule "Notepad2Mod-Settings"]
+	path = Notepad2Mod-Settings
+	url = git://github.com/jayrobot/Notepad2Mod-Settings.git
+[submodule "Powershell-Settings"]
+	path = Powershell-Settings
+	url = git://github.com/jayrobot/Powershell-Settings.git
+[submodule "SQLServerManagementStudio-Settings"]
+	path = SQLServerManagementStudio-Settings
+	url = git://github.com/jayrobot/SQLServerManagementStudio-Settings.git
+[submodule "SublimeText3-Settings"]
+	path = SublimeText3-Settings
+	url = git://github.com/jayrobot/SublimeText3-Settings.git
+[submodule "VisualStudio2010-Settings"]
+	path = VisualStudio2010-Settings
+	url = git://github.com/jayrobot/VisualStudio2010-Settings.git
+[submodule "VisualStudio2010-Snippets"]
+	path = VisualStudio2010-Snippets
+	url = git://github.com/jayrobot/VisualStudio2010-Snippets.git
+[submodule "VisualStudio2013-Settings"]
+	path = VisualStudio2013-Settings
+	url = git://github.com/jayrobot/VisualStudio2013-Settings.git
+[submodule "WinMerge-Settings"]
+	path = WinMerge-Settings
+	url = git://github.com/jayrobot/WinMerge-Settings.git
